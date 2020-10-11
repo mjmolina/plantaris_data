@@ -3,13 +3,12 @@
 
 **Help your plants to stay healthier with Machine Learning at home** 
 
-<img src= />
+<img src= plantaris_data.png width="300px"/>
 
 
 * Check the [code/](code/) directory to see all the examples used in the talk
   and project.
-* Check the [materials/](materials/) directory to get the information related
-  components, configuration, photos, and more!
+
 
 ## Talk description
 Many studies have also proven that growing indoor house plants, as long as being a trend, improves health, despite the difficulty to keep them alive. The fact is that when we grow plants inside our homes, they depend 100% on us and sometimes it is difficult to know what they need.
