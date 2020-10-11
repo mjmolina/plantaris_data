@@ -1,7 +1,7 @@
 # plantaris_data
 ## JupyterCon 2020 - Category: Data Science Applications Talk
 
-**Help your plants to stay healthier with Machine Learning at home** 
+## **Help your plants to stay healthier with Machine Learning at home** 
 
 <img src= plantaris_data.png width="300px"/>
 
