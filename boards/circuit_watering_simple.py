@@ -32,7 +32,6 @@ watering_time = 1
 dry_value = 4000
 
 while True:
-    
     # Read value
     sensor_value = touch.raw_value
     print("Sensor value:", sensor_value)
