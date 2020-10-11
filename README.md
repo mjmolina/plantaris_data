@@ -3,7 +3,8 @@
 
 ## **Help your plants to stay healthier with Machine Learning at home** 
 
-<img src= plantaris_data.png width="300px"/>
+
+<img align="right" width="350" height="350" src= plantaris_data.png />
 
 
 * Check the [code/](code/) directory to see all the examples used in the talk
