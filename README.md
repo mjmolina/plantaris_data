@@ -42,8 +42,8 @@ talk is complementary to a previous personal project called "PLANTARIS"
 │   ├── circuit_moisture.py
 │   ├── circuit_watering_simple.py
 │   ├── pi_monitor.py
-│   ├── requirements.txt
-│   └── temp_hum.csv
+│   └── requirements.txt
+│ 
 └── notebooks
     ├── circuitpython_notebook.ipynb
     ├── data_analysis_sensors.ipynb
