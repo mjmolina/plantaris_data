@@ -25,6 +25,8 @@ with data science challenges, at the same time that you will learn plant
 biology and how to implement a real-world machine learning project, and at the
 same time help your plant to be happier.
 
+* You can watch the talk [here](https://www.youtube.com/watch?v=S9LbxLDW7ig&t=131s)
+
 ## Audience
 (1) This talk is beginner friendly. The main idea of this talk is to show with
 a practical example how we can implement machine learning at home, at the same
